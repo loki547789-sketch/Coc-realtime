@@ -1,0 +1,6 @@
+{
+  "name": "Clash Pulse - Builder & Clan War Tracker",
+  "description": "Real-time Clash of Clans dashboard for upgrade progression, Clan War live tracking, Capital Raid progress, and Clan Roster with multi-account support and official Supercell API synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
